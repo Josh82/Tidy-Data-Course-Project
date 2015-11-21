@@ -6,25 +6,31 @@ Activity
   5. Standing
   6. Laying
 Participant
-  1-30 each number identifies the subject between 19-48 years of age who performed the activity
-TimeBodyAccelorate-mean()-X
-TimeBodyAccelorate-mean()-Y
-TimeBodyAccelorate-mean()-Z
-TimeBodyAccelorate-sTimed()-X
-TimeBodyAccelorate-sTimed()-Y
-TimeBodyAccelorate-sTimed()-Z
-TimeGraviTimeyAccelorate-mean()-X
-TimeGraviTimeyAccelorate-mean()-Y
-TimeGraviTimeyAccelorate-mean()-Z
-TimeGraviTimeyAccelorate-sTimed()-X
-TimeGraviTimeyAccelorate-sTimed()-Y
-TimeGraviTimeyAccelorate-sTimed()-Z
-TimeBodyAccelorateJerk-mean()-X
-TimeBodyAccelorateJerk-mean()-Y
-TimeBodyAccelorateJerk-mean()-Z
-TimeBodyAccelorateJerk-sTimed()-X
-TimeBodyAccelorateJerk-sTimed()-Y
-TimeBodyAccelorateJerk-sTimed()-Z
+  1. 1-30 each number identifies the subject between 19-48 years of age who performed the activity
+Mean value for time of body acceleration
+  1.TimeBodyAccelorate-mean()-X (x axis, in Hz)
+  2.TimeBodyAccelorate-mean()-Y (y axis, in Hz)
+  3.TimeBodyAccelorate-mean()-Z (z axis, in Hz)
+Standard Deviation for time of body acceleraion
+  1.TimeBodyAccelorate-sTimed()-X (x axis, in Hz)
+  2.TimeBodyAccelorate-sTimed()-Y (y axis, in Hz)
+  3.TimeBodyAccelorate-sTimed()-Z (z axis, in Hz)
+Mean value for time of gravity acceleration
+  1.TimeGraviTimeyAccelorate-mean()-X (x axis, in Hz)
+  2.TimeGraviTimeyAccelorate-mean()-Y (y axis, in Hz)
+  3.TimeGraviTimeyAccelorate-mean()-Z (z axis, in Hz)
+Standard Deviation for time of gravity acceleration
+  1.TimeGraviTimeyAccelorate-sTimed()-X
+  2.TimeGraviTimeyAccelorate-sTimed()-Y
+  3.TimeGraviTimeyAccelorate-sTimed()-Z
+Mean value of Jerk Signal for time of body acceleration
+  1.TimeBodyAccelorateJerk-mean()-X (x axis, in Hz)
+  2.TimeBodyAccelorateJerk-mean()-Y (y axis, in Hz)
+  3.TimeBodyAccelorateJerk-mean()-Z (z axis, in Hz)
+Standard Deviation of Jerk Signal for time of body acceleration
+  1.imeBodyAccelorateJerk-sTimed()-X (x axis, in Hz)
+  2.TimeBodyAccelorateJerk-sTimed()-Y (y axis, in Hz)
+  3.TimeBodyAccelorateJerk-sTimed()-Z (z axis, in Hz)
 TimeBodyAngular_Velocity-mean()-X
 TimeBodyAngular_Velocity-mean()-Y
 TimeBodyAngular_Velocity-mean()-Z
