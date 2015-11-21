@@ -1,2 +1,6 @@
-# Tidy-Data-Course-Project
-#Contains R script and code book
+How the script works:
+Code begins by setting the working directory and reads in the features file (containing labels for the data) and both the training and test files with results from the expirements. The labels are applied to the training and test files. Next the subject_train file is read in along with y_train. The subject_train file lists the ID for each individual who took part in the expirement. The y_train file identifies which one of the six activities each row of data is for. These are both vectors with the same dimentions. (one column 7352 rows) They are column combined into one table and then combined again with the raw data. (From the X_train file.) The process is repeated for the test data.  At this point the full training and test data sets are combined into one table. The activities are renamend from 1-6 to be more descriptive. 
+
+Next all columns that contain mean and standard deviation values are taken and used to create a new table. The labels are then cleaned up to be easier to interpret. Lastly the data is written to a new txt file. 
+
+At this point the dplyr package is loaded and the group_by and summarise_each functions are used to calculate the mean for each activity/participant pair. The result is then saved to a new text file.
