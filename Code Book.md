@@ -6,31 +6,31 @@ Activity
   5. Standing
   6. Laying
 Participant
-  1. 1-30 each number identifies the subject between 19-48 years of age who performed the activity
+  7. 1-30 each number identifies the subject between 19-48 years of age who performed the activity
 Mean value for time of body acceleration
-  1.TimeBodyAccelorate-mean()-X (x axis, in Hz)
-  2.TimeBodyAccelorate-mean()-Y (y axis, in Hz)
-  3.TimeBodyAccelorate-mean()-Z (z axis, in Hz)
+  8.TimeBodyAccelorate-mean()-X (x axis, in Hz)
+  9.TimeBodyAccelorate-mean()-Y (y axis, in Hz)
+  10.TimeBodyAccelorate-mean()-Z (z axis, in Hz)
 Standard Deviation for time of body acceleraion
-  1.TimeBodyAccelorate-sTimed()-X (x axis, in Hz)
-  2.TimeBodyAccelorate-sTimed()-Y (y axis, in Hz)
-  3.TimeBodyAccelorate-sTimed()-Z (z axis, in Hz)
+  11.TimeBodyAccelorate-sTimed()-X (x axis, in Hz)
+  12.TimeBodyAccelorate-sTimed()-Y (y axis, in Hz)
+  13.TimeBodyAccelorate-sTimed()-Z (z axis, in Hz)
 Mean value for time of gravity acceleration
-  1.TimeGraviTimeyAccelorate-mean()-X (x axis, in Hz)
-  2.TimeGraviTimeyAccelorate-mean()-Y (y axis, in Hz)
-  3.TimeGraviTimeyAccelorate-mean()-Z (z axis, in Hz)
+  14.TimeGraviTimeyAccelorate-mean()-X (x axis, in Hz)
+  15.TimeGraviTimeyAccelorate-mean()-Y (y axis, in Hz)
+  16.TimeGraviTimeyAccelorate-mean()-Z (z axis, in Hz)
 Standard Deviation for time of gravity acceleration
-  1.TimeGraviTimeyAccelorate-sTimed()-X
-  2.TimeGraviTimeyAccelorate-sTimed()-Y
-  3.TimeGraviTimeyAccelorate-sTimed()-Z
+  17.TimeGraviTimeyAccelorate-sTimed()-X
+  18.TimeGraviTimeyAccelorate-sTimed()-Y
+  19.TimeGraviTimeyAccelorate-sTimed()-Z
 Mean value of Jerk Signal for time of body acceleration
-  1.TimeBodyAccelorateJerk-mean()-X (x axis, in Hz)
-  2.TimeBodyAccelorateJerk-mean()-Y (y axis, in Hz)
-  3.TimeBodyAccelorateJerk-mean()-Z (z axis, in Hz)
+  20.TimeBodyAccelorateJerk-mean()-X (x axis, in Hz)
+  21.TimeBodyAccelorateJerk-mean()-Y (y axis, in Hz)
+  22.TimeBodyAccelorateJerk-mean()-Z (z axis, in Hz)
 Standard Deviation of Jerk Signal for time of body acceleration
-  1.imeBodyAccelorateJerk-sTimed()-X (x axis, in Hz)
-  2.TimeBodyAccelorateJerk-sTimed()-Y (y axis, in Hz)
-  3.TimeBodyAccelorateJerk-sTimed()-Z (z axis, in Hz)
+  23.imeBodyAccelorateJerk-sTimed()-X (x axis, in Hz)
+  24.TimeBodyAccelorateJerk-sTimed()-Y (y axis, in Hz)
+  25.TimeBodyAccelorateJerk-sTimed()-Z (z axis, in Hz)
 TimeBodyAngular_Velocity-mean()-X
 TimeBodyAngular_Velocity-mean()-Y
 TimeBodyAngular_Velocity-mean()-Z
