@@ -20,9 +20,9 @@ Mean value for time of gravity acceleration
   15.TimeGraviTimeyAccelorate-mean()-Y (y axis, in Hz)
   16.TimeGraviTimeyAccelorate-mean()-Z (z axis, in Hz)
 Standard Deviation for time of gravity acceleration
-  17.TimeGraviTimeyAccelorate-sTimed()-X
-  18.TimeGraviTimeyAccelorate-sTimed()-Y
-  19.TimeGraviTimeyAccelorate-sTimed()-Z
+  17.TimeGraviTimeyAccelorate-sTimed()-X (x axis, in Hz)
+  18.TimeGraviTimeyAccelorate-sTimed()-Y (y axis, in Hz)
+  19.TimeGraviTimeyAccelorate-sTimed()-Z (z axis, in Hz)
 Mean value of Jerk Signal for time of body acceleration
   20.TimeBodyAccelorateJerk-mean()-X (x axis, in Hz)
   21.TimeBodyAccelorateJerk-mean()-Y (y axis, in Hz)
@@ -31,12 +31,14 @@ Standard Deviation of Jerk Signal for time of body acceleration
   23.imeBodyAccelorateJerk-sTimed()-X (x axis, in Hz)
   24.TimeBodyAccelorateJerk-sTimed()-Y (y axis, in Hz)
   25.TimeBodyAccelorateJerk-sTimed()-Z (z axis, in Hz)
-TimeBodyAngular_Velocity-mean()-X
-TimeBodyAngular_Velocity-mean()-Y
-TimeBodyAngular_Velocity-mean()-Z
-TimeBodyAngular_Velocity-sTimed()-X
-TimeBodyAngular_Velocity-sTimed()-Y
-TimeBodyAngular_Velocity-sTimed()-Z
+Mean value for the angular velocity of the body
+  26.TimeBodyAngular_Velocity-mean()-X (x axis, in Hz)
+  27.TimeBodyAngular_Velocity-mean()-Y (y axis, in Hz)
+  28.TimeBodyAngular_Velocity-mean()-Z (z axis, in Hz)
+Standard deviation for the angular velocity of the body
+  29.TimeBodyAngular_Velocity-sTimed()-X
+  30.TimeBodyAngular_Velocity-sTimed()-Y
+  31.TimeBodyAngular_Velocity-sTimed()-Z
 TimeBodyAngular_VelocityJerk-mean()-X
 TimeBodyAngular_VelocityJerk-mean()-Y
 TimeBodyAngular_VelocityJerk-mean()-Z
